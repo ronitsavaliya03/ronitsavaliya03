@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronit Savaliya</h1>
 <h3 align="center">A Student of Computer Science & Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitsavaliya03&label=Profile%20views&color=0e75b6&style=flat" alt="ronitsavaliya03" /> </p>
-
 <p align="left"> <a href="https://twitter.com/imrsavaliya03" target="blank"><img src="https://img.shields.io/twitter/follow/imrsavaliya03?logo=twitter&style=for-the-badge" alt="imrsavaliya03" /></a> </p>
 
 - 👨‍💻 I’m currently studying at **Darshan University**
