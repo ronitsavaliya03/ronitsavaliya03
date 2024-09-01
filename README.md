@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently studying at **Darshan University**
 
-- 🌱 I’m currently learning **Data Structure, DBMS etc.**
+- 🌱 I’m currently learning **Data Structure, DBMS, Web Tech etc.**
 
 - 📫 How to reach me **ronitsavaliya3303@gmail.com**
 
