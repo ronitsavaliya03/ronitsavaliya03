@@ -41,8 +41,6 @@
 </div>
 
 
-
-
 <h3 align="left">🔥  My Stats :</h3>
 
 ###
@@ -51,3 +49,9 @@
   <img src="https://streak-stats.demolab.com?user=ronitsavaliya03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
+
+<h3 align="left">📈 Contribution Graph</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitsavaliya03&theme=react-dark&hide_border=true&area=true" width="75%">
+</div>
