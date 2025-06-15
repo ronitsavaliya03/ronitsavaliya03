@@ -1,57 +1,81 @@
 <h1 align="center">Hi 👋, I'm Ronit Savaliya</h1>
-<h3 align="center">A Student of Computer Science & Engineering</h3>
+<h3 align="center">Aspiring Software Engineer | Computer Science & Engineering Student | Lifelong Learner</h3>
 
-<p align="left"> <a href="https://twitter.com/imrsavaliya03" target="blank"><img src="https://img.shields.io/twitter/follow/imrsavaliya03?logo=twitter&style=for-the-badge" alt="imrsavaliya03" /></a> </p>
-
-- 👨‍💻 I’m currently studying at **Darshan University**
-
-- 🌱 I’m currently learning **Data Structure, DBMS, Web Tech etc.**
-
-- 📫 How to reach me **ronitsavaliya3303@gmail.com**
-
-- ⚡ Fun fact **The Firefox logo isn't a fox, It's actually a red panda.**
-
-
-###
-
-<img align="right" height="150" src="https://images.hdqwalls.com/download/baby-groot2019-ls-2880x1800.jpg"  /> 
-
-###
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imrsavaliya03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrsavaliya03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ronit-savaliya-557b25325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronit-savaliya-557b25325" height="30" width="40" /></a>
-<a href="https://fb.com/ronit.savaliya.3303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronit.savaliya.3303" height="30" width="40" /></a>
-<a href="https://instagram.com/imronniet.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imronniet.s" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/imrsavaliya03" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/imrsavaliya03?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://linkedin.com/in/ronit-savaliya-557b25325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ronitsavaliya3303@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
+---
 
+## 📄 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Darshan University**
+- 🌐 Focused on mastering **Data Structures, DBMS, Web Development**
+- 🤖 Exploring concepts in **Data Mining and Computer Networks**
+- 🎨 Passionate about building scalable and real-world applications
+- 📫 Reach me at **ronitsavaliya3303@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+<p align="center">
+  <a href="https://twitter.com/imrsavaliya03" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" /></a>
+  <a href="https://linkedin.com/in/ronit-savaliya-557b25325" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
+  <a href="https://fb.com/ronit.savaliya.3303" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" /></a>
+  <a href="https://instagram.com/imronniet.s" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" /></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronitsavaliya03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronitsavaliya03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitsavaliya03&show_icons=true&theme=github_dark&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsavaliya03&layout=compact&theme=github_dark" height="160" />
 </div>
 
+---
 
-<h3 align="left">🔥  My Stats :</h3>
-
-###
+## 🔥 GitHub Streak & Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ronitsavaliya03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ronitsavaliya03&theme=dark&hide_border=false" height="200" />
 </div>
 
-###
-
-<h3 align="left">📈 Contribution Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitsavaliya03&theme=react-dark&hide_border=true&area=true" width="75%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitsavaliya03&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://images.hdqwalls.com/download/baby-groot2019-ls-2880x1800.jpg" height="150" />
+</p>
+
+<p align="center"><i>Thanks for visiting! Let's grow together in tech. Keep learning, keep building. ✨</i></p>
